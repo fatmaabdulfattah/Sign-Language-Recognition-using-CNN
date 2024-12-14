@@ -12,7 +12,7 @@ This project uses a Convolutional Neural Network (CNN) to recognize American Sig
 
 4. **Visualization**: Random samples displayed to verify the dataset.
 
-**Dataset Link**: [ASL Alphabet Dataset]((https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
+**Dataset Link**: ((https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
 
 **My Kaggle Code**: (https://www.kaggle.com/code/fatmaabdulfattah/sign-language-recognition-using-cnn)
 
